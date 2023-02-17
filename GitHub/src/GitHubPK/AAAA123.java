@@ -6,9 +6,16 @@ public class AAAA123 {
 		
 		System.out.println("hii");
 		
+		
 		System.out.println("Amey");
 		System.out.println("Shewale");
+
+		System.out.print("Amey");
+		System.out.print(" Shewale");
+		System.out.println("Helloo!!!");
+		System.out.println("hii");
 		
+
 	}
 	
 	
